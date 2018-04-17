@@ -8,7 +8,6 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.6'
-gem 'sqlite3'
 # Use Carrierwave as picture uploader
 gem 'carrierwave'
 # Use Puma as the app server
